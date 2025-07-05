@@ -1,0 +1,5 @@
+{
+  "name": "Memory Maze",
+  "description": "A game where you memorize a path on a grid and then try to follow it. The maze gets more complex as you advance through levels.",
+  "requestFramePermissions": []
+}
